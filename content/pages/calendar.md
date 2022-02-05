@@ -10,33 +10,468 @@ MAS = Martin Schmidt
 RCOH = Robert O' Handley  
 SR = Susan Ruff
 
-| LEC # | TOPICS | LABS | KEY DATES |
-| --- | --- | --- | --- |
-| 1 | Overview/Safety/Lab Assignment (MAS)  {{< br >}}  {{< br >}}CIM: Introduction to CIM (SR) |  | Homework 1 out |
-| 2 | IC Lab - Overview (MAS) | IC-1: Gate Oxide/Poly |  |
-| 3 | Oxidation (MAS) |  | Homework 1 due  {{< br >}}  {{< br >}}Homework 2 out |
-|  |  | IC-2: Backside Etch |  |
-| 4 | Diffusion (RCOH) |  | Homework 2 due  {{< br >}}  {{< br >}}Homework 3 out |
-| 5 | IC Lab: Testing (MAS)  {{< br >}}  {{< br >}}CIM: Writing Technical Reports (SR) | IC-3: Test | IC lab report out |
-| 6 | Diffusion/Implantation (RCOH) |  |  |
-| 7 | MEMS Lab: Overview (MAS) | MEMS-1: Photolith | Homework 3 due  {{< br >}}  {{< br >}}IC lab report due (in lab) |
-| 8 | Vacuum System (RCOH) |  | Homework 4 out |
-| 9 | CVD (RCOH) |  |  |
-| 10 | Sputtering (RCOH)  {{< br >}}  {{< br >}}CIM: Feedback on IC Report, Reports Returned (SR) | MEMS-2: KOH Etch | Homework 4 due  {{< br >}}  {{< br >}}Homework 5 out |
-|  | Quiz 1: Through CVD (Staff) |  |  |
-| 11 | Fluids Lab: Overview (MAS) | Fluids-1: Photolith |  |
-| 12 | Evaporation (RCOH) |  | Revised IC report due |
-| 13 | MEMS Lab: Testing (MAS) | MEMS-3: Test | Homework 5 due  {{< br >}}  {{< br >}}MEMS lab report out |
-| 14 | Lithography (MAS) |  | Homework 6 out  {{< br >}}  {{< br >}}Revised IC report returned |
-| 15 | Lithography, Soft Lithography (MAS) |  |  |
-| 16 | Etching (Wet) (RCOH) |  | Homework 6 due  {{< br >}}  {{< br >}}Homework 7 out |
-| 17 | Etching (Dry) (RCOH) | Fluids-2: Molding | MEMS lab report due |
-| 18 | CMOS (MAS) |  | Homework 7 due  {{< br >}}  {{< br >}}Homework 8 out |
-| 19 | Advanced Silicon Devices (MAS) |  |  |
-| 20 | Fluids Lab: Testing (MAS) |  | Homework 8 due  {{< br >}}  {{< br >}}Take home exam out |
-| 21 | Take Home Introduction / Patents (MAS) | Fluids-3: Test | Fluids lab report out |
-|  | Quiz 2: Through Advanced Silicon Devices (Staff) |  |  |
-| 22 | Take Home Discussion (MAS) |  |  |
-| 23 | Advanced Topics (Guest) |  | Fluids lab report due |
-| 24 | Advanced Topics (cont.) (Guest) |  |  |
-| 25 | Analog Devices Fab Tour |  | Take home quiz due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LABS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Overview/Safety/Lab Assignment (MAS)  
+  
+CIM: Introduction to CIM (SR)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 1 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+IC Lab - Overview (MAS)
+{{< tdclose >}}
+{{< tdopen >}}
+IC-1: Gate Oxide/Poly
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Oxidation (MAS)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 1 due  
+  
+Homework 2 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+IC-2: Backside Etch
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Diffusion (RCOH)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 2 due  
+  
+Homework 3 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+IC Lab: Testing (MAS)  
+  
+CIM: Writing Technical Reports (SR)
+{{< tdclose >}}
+{{< tdopen >}}
+IC-3: Test
+{{< tdclose >}}
+{{< tdopen >}}
+IC lab report out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Diffusion/Implantation (RCOH)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+MEMS Lab: Overview (MAS)
+{{< tdclose >}}
+{{< tdopen >}}
+MEMS-1: Photolith
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 3 due  
+  
+IC lab report due (in lab)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Vacuum System (RCOH)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 4 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+CVD (RCOH)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Sputtering (RCOH)  
+  
+CIM: Feedback on IC Report, Reports Returned (SR)
+{{< tdclose >}}
+{{< tdopen >}}
+MEMS-2: KOH Etch
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 4 due  
+  
+Homework 5 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1: Through CVD (Staff)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Fluids Lab: Overview (MAS)
+{{< tdclose >}}
+{{< tdopen >}}
+Fluids-1: Photolith
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Evaporation (RCOH)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Revised IC report due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+MEMS Lab: Testing (MAS)
+{{< tdclose >}}
+{{< tdopen >}}
+MEMS-3: Test
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 5 due  
+  
+MEMS lab report out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Lithography (MAS)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 6 out  
+  
+Revised IC report returned
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Lithography, Soft Lithography (MAS)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Etching (Wet) (RCOH)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 6 due  
+  
+Homework 7 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Etching (Dry) (RCOH)
+{{< tdclose >}}
+{{< tdopen >}}
+Fluids-2: Molding
+{{< tdclose >}}
+{{< tdopen >}}
+MEMS lab report due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+CMOS (MAS)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 7 due  
+  
+Homework 8 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Advanced Silicon Devices (MAS)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Fluids Lab: Testing (MAS)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 8 due  
+  
+Take home exam out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Take Home Introduction / Patents (MAS)
+{{< tdclose >}}
+{{< tdopen >}}
+Fluids-3: Test
+{{< tdclose >}}
+{{< tdopen >}}
+Fluids lab report out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2: Through Advanced Silicon Devices (Staff)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Take Home Discussion (MAS)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Advanced Topics (Guest)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Fluids lab report due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Advanced Topics (cont.) (Guest)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Analog Devices Fab Tour
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Take home quiz due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
