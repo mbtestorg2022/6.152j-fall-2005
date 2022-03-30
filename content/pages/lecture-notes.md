@@ -73,7 +73,7 @@ MAS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Diffusion (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.5 MB]({{< baseurl >}}/resources/lecture4))
+Diffusion ([PDF - 4.5 MB]({{< baseurl >}}/resources/lecture4))
 {{< tdclose >}}
 {{< tdopen >}}
 RCOH
@@ -101,7 +101,7 @@ SR
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Diffusion/Implantation (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture6))
+Diffusion/Implantation ([PDF]({{< baseurl >}}/resources/lecture6))
 {{< tdclose >}}
 {{< tdopen >}}
 RCOH
@@ -113,7 +113,7 @@ RCOH
 7
 {{< tdclose >}}
 {{< tdopen >}}
-MEMS Lab: Overview (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture7))
+MEMS Lab: Overview ([PDF]({{< baseurl >}}/resources/lecture7))
 {{< tdclose >}}
 {{< tdopen >}}
 MAS
@@ -178,7 +178,7 @@ MAS
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Evaporation (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.6 MB]({{< baseurl >}}/resources/lecture12))
+Evaporation ([PDF - 2.6 MB]({{< baseurl >}}/resources/lecture12))
 {{< tdclose >}}
 {{< tdopen >}}
 RCOH

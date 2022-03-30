@@ -24,7 +24,7 @@ SOLUTIONS
 Problem Set 1 ([PDF]({{< baseurl >}}/resources/ps1))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps1_solution))
+([PDF]({{< baseurl >}}/resources/ps1_solution))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +33,7 @@ Problem Set 1 ([PDF]({{< baseurl >}}/resources/ps1))
 Problem Set 2 ([PDF]({{< baseurl >}}/resources/ps2))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps2_solution))
+([PDF]({{< baseurl >}}/resources/ps2_solution))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +69,7 @@ Problem Set 5 ([PDF]({{< baseurl >}}/resources/ps5))
 Problem Set 6 ([PDF]({{< baseurl >}}/resources/ps6))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps6_solution))
+([PDF]({{< baseurl >}}/resources/ps6_solution))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +87,7 @@ Problem Set 7 ([PDF]({{< baseurl >}}/resources/ps7))
 Problem Set 8 ([PDF]({{< baseurl >}}/resources/ps8))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps8_solution))
+([PDF]({{< baseurl >}}/resources/ps8_solution))
 {{< tdclose >}}
 
 {{< trclose >}}
